@@ -24,6 +24,6 @@ This repository showcases my hands on work across four main areas from my studie
 - OpenPGP
 
 # Connect with Me
-- **LinkedIn:** linkedin.com/in/aoliva17
-- **GitHub:** github.com/aoliva17
+- **LinkedIn:** [linkedin.com/in/aoliva17](#)
+- **GitHub:** [github.com/aoliva17](#)
 - **Email:** antoliva06@gmail.com
