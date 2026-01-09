@@ -5,7 +5,7 @@ This project demonstrates the deployment and administration of a secure Linux se
 
 The primary objective was to design and manage a Linux-based environment that prioritizes automation, reliability, and security, reflecting responsibilities commonly associated with junior system administrator and security operations roles.
 
-## Environment
+# Environment
 Linux virtual machines configured in a multi-VM lab environment  
 One server VM providing core infrastructure services  
 One or more client VMs operating within an isolated internal network  
