@@ -24,7 +24,7 @@ ACL behavior was validated by testing permitted and denied traffic flows to conf
 
 ## Proof of Work
 
-Screenshots in the `/screenshots` directory include:
+Screenshots in the screenshots directory include:
 ACL topology diagrams  
 Subnetting configurations with ACL application  
 Traffic filtering verification  
