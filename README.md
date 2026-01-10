@@ -1,29 +1,73 @@
-# IT-Portfolio-AnthonyOliva
-Hands on IT projects and labs from Networking, Linux, Microsoft Server Administration, and Cybersecurity courses.
-# Anthony Oliva – IT Portfolio
-Welcome to my IT portfolio!  
-This repository showcases my hands on work across four main areas from my studies at Seneca Polytechnic
+# IT Portfolio – Anthony Oliva
 
-- **Networking**:
-    Cisco Packet Tracer labs with VLANs, STP, and subnetting. Rapid PVST+, and Trunking, Layer 2 protocols, Cisco IOS, Network design 
-- **Microsoft Server Administration**:
-    VMware labs with file sharing, storage management, and domain configuration, Virtualization, NTFS permissions, Using Microsoft Server  
-- **Linux Server Administration**:
-    Bash scripting, user management, system automation, File Permissions, system configuration 
-- **Cybersecurity**:
-    Wireshark, firewalls, and encryption configuration, Wireshark Traffic Analysis, Packet analysis, intrusion detection, encryption
+Hands-on IT projects demonstrating practical skills in Networking, Linux, Microsoft Server Administration, and Cybersecurity.
 
-# Tools & Technologies
-- Cisco Packet Tracer
-- VMware Workstation
-- Oracle Virtual Box
-- Windows Server 2022
-- Ubuntu, Debian, Kali, Mint, / General Linux Shell
-- Wireshark
-- PowerShell / Bash / Python
-- OpenPGP
+## Overview
 
-# Connect with Me
-- **LinkedIn:** [linkedin.com/in/aoliva17](#)
-- **GitHub:** [github.com/aoliva17](#)
-- **Email:** antoliva06@gmail.com
+Welcome to my IT portfolio.  
+This repository showcases hands-on labs and projects completed during my studies at **Seneca Polytechnic**, focused on real-world infrastructure, systems administration, and security concepts.
+
+Each section represents a core technical competency and includes documented configurations, screenshots, and supporting scripts.
+
+## Portfolio Areas
+
+## Networking
+
+Enterprise networking labs built using Cisco Packet Tracer, focusing on reliability, segmentation, and traffic control.
+
+Key topics include:
+VLAN design and subnetting  
+Inter-VLAN routing and trunking  
+Spanning Tree Protocol (Rapid PVST+)  
+Layer 2 loop prevention and redundancy  
+Cisco IOS configuration and network design  
+
+## Microsoft Server Administration
+
+Windows Server labs deployed in virtualized environments to simulate enterprise user and storage management.
+
+Key topics include:
+Active Directory domain configuration  
+User, group, and OU management  
+NTFS permissions and access control  
+File sharing and storage management  
+Virtualization using VMware  
+
+## Linux Server Administration
+
+Linux system administration projects emphasizing automation, security, and system-level configuration.
+
+Key topics include:
+Bash scripting and task automation  
+User and permission management  
+System configuration and maintenance  
+Secure remote access and hardening  
+Debian, Ubuntu, Kali, and Mint environments  
+
+## Cybersecurity
+
+Security-focused labs analyzing network traffic, protocol weaknesses, and defensive mitigation strategies.
+
+Key topics include:
+Wireshark traffic analysis  
+Packet inspection and protocol analysis  
+Firewall and access control concepts  
+Encryption fundamentals  
+Intrusion detection principles  
+
+## Tools & Technologies
+
+Cisco Packet Tracer  
+VMware Workstation  
+Oracle VirtualBox  
+Windows Server 2022  
+Linux (Ubuntu, Debian, Kali, Mint)  
+Wireshark  
+PowerShell, Bash, Python  
+OpenPGP  
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/aoliva17  
+GitHub: https://github.com/aoliva17  
+Email: antoliva06@gmail.com
